@@ -1,7 +1,7 @@
 {
   "name": "hotjar",
   "vendor": "vtex",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "title": "Hotjar",
   "description": "",
   "billingOptions": {
@@ -14,8 +14,7 @@
   "builders": {
     "pixel": "0.x"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "settingsSchema": {
     "title": "Hotjar",
     "type": "object",
