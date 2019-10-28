@@ -1,9 +1,9 @@
 {
-  "name": "CHANGEME",
+  "name": "hotjar",
   "vendor": "vtex",
   "version": "0.0.1",
-  "title": "CHANGEME",
-  "description": "CHANGEME",
+  "title": "Hotjar",
+  "description": "",
   "billingOptions": {
     "termsURL": "",
     "support": {
@@ -12,20 +12,16 @@
     "free": true
   },
   "builders": {
-    "react": "3.x",
-    "store": "0.x",
     "pixel": "0.x"
   },
   "dependencies": {
-    "vtex.pixel-interfaces": "1.x"
   },
   "settingsSchema": {
-    "title": "APP NAME",
+    "title": "Hotjar",
     "type": "object",
     "properties": {
-      "gtmId": {
-        "title": "SAMPLE FIELD",
-        "description": "Enter the ID (GTM-XXXX) from your Google Tag Manager",
+      "siteId": {
+        "title": "Site ID",
         "type": "string"
       }
     }
