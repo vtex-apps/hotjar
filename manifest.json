@@ -12,7 +12,8 @@
     "free": true
   },
   "builders": {
-    "pixel": "0.x"
+    "pixel": "0.x",
+    "docs": "0.x"
   },
   "dependencies": {},
   "settingsSchema": {
