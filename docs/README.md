@@ -16,7 +16,7 @@ Next, open the app settings on your admin and fill the form with Site ID.
 
 Open your admin in the Checkout section in the `checkout6-custom.js`:
 
-https://ACCOUNT.myvtexdev.com/admin/portal/#/sites/default/code/files/checkout6-custom.js
+https://ACCOUNT.myvtex.com/admin/portal/#/sites/default/code/files/checkout6-custom.js
 
 Add the following snippet in the file and replace `"YOURSITEID"` with your Site ID:
 
