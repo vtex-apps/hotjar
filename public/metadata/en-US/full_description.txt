@@ -1,0 +1,21 @@
+## About
+
+Hotjar is a powerful tool that reveals the online behavior of your users. With the analytics tools, Hotjar gives you the ‘big picture’ of how to improve your site's user experience and performance/conversion rates.
+
+## Functionalities
+
+- Understand what users want, care about and do on your site by visually representing their clicks, taps and scrolling behavior – which are the strongest indicators of visitor motivation and desire;
+- Eliminate guesswork with Recordings of real visitor behavior on your site. By seeing your visitor’s clicks, taps and mouse movements you can identify usability issues on the fly and issues they encounter;
+- Find the biggest opportunities for improvement and testing by identifying on which page and at which step most visitors are leaving your site;
+- Improve online form completion rates by discovering which fields take too long to ﬁll, which are left blank, and why your visitors abandon your form and page.
+
+## How to set up
+
+1 - Install the app from VTEX App Store;
+2 - Add the Site ID. You can get this value from the URL of your browser while you're logged in to Hotjar: http://insights.hotjar.com/sites/{SITE ID}/dashboard;
+3 - Save your changes;
+4 - Manage the information through the hotjar platform.
+
+## Comments
+
+- To use the service you must have an active Hotjar account. Some features are only available for specific plans.

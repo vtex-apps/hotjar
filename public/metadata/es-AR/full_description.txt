@@ -1,0 +1,21 @@
+## Sobre
+
+Hotjar es una herramienta poderosa que revela el comportamiento en línea de sus usuarios. Con las herramientas de análisis, Hotjar proporciona una descripción general de cómo mejorar la experiencia del usuario y las tasas de rendimiento/conversión del sitio.
+
+## Funcionalidades
+
+- Comprenda lo que los usuarios quieren, se preocupan y hacen en su sitio al representar visualmente sus clics, toques y comportamiento de desplazamiento, que son los indicadores más fuertes de la motivación y el deseo de los visitantes;
+- Elimine las conjeturas con Grabaciones del comportamiento real de los visitantes en su sitio. Al ver los clics, los toques y los movimientos del mouse de sus visitantes, puede identificar los problemas de usabilidad sobre la marcha y los problemas que encuentran;
+- Encuentre las mayores oportunidades para mejorar y probar identificando en qué página y en qué paso la mayoría de los visitantes abandonan su sitio;
+- Mejore las tasas de finalización de formularios en línea descubriendo qué campos tardan demasiado en llenarse, cuáles se dejan en blanco y por qué sus visitantes abandonan su formulario y página.
+
+## Cómo configurar
+
+1 - Instala la aplicación desde VTEX App Store;
+2 - Agregue la Site ID. Puede obtener este valor de la URL de su navegador mientras está conectado a Hotjar: http://insights.hotjar.com/sites/{SITE ID}/dashboard;
+3 - Guarde sus cambios;
+4 - Administra la información a través de la plataforma hotjar.
+
+## Comentarios
+
+- Para usar el servicio debe tener una cuenta activa de Hotjar. Algunas funciones solo están disponibles para planes específicos.
