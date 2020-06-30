@@ -11,11 +11,12 @@ Hotjar is a powerful tool that reveals the online behavior of your users. With t
 
 ## How to set up
 
-1 - Install the app from VTEX App Store;
-2 - Add the Site ID. You can get this value from the URL of your browser while you're logged in to Hotjar: http://insights.hotjar.com/sites/{SITE ID}/dashboard;
-3 - Save your changes;
-4 - Manage the information through the hotjar platform.
+1. Install the app from VTEX App Store;
+2. Add the Site ID. You can get this value from the URL of your browser while you're logged in to Hotjar: http://insights.hotjar.com/sites/{SITE ID}/dashboard;
+3. Save your changes;
+4. Manage the information through the hotjar platform.
 
 ## Comments
 
 - To use the service you must have an active Hotjar account. Some features are only available for specific plans.
+- Installation instructions are available at https://vtex.io/docs/app/vtex.hotjar

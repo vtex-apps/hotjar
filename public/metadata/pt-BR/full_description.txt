@@ -19,3 +19,4 @@ Hotjar é uma ferramenta poderosa que revela o comportamento online de seus usu�
 ## Comentários
 
 - Para utilizar o serviço é preciso ter uma conta ativa do Hotjar. Algumas funcionalidades só estão disponíveis para planos específicos.
+- Instruções de instalação estão disponíveis em https://vtex.io/docs/app/vtex.hotjar
