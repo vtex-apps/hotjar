@@ -1,7 +1,7 @@
 {
   "name": "hotjar",
   "vendor": "vtex",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "title": "Hotjar",
   "description": "With one click, start monitoring your customers' behavior with the Hotjar data analysis tool.",
   "billingOptions": {
@@ -11,7 +11,9 @@
     },
     "free": true,
     "type": "free",
-    "availableCountries": ["*"]
+    "availableCountries": [
+      "*"
+    ]
   },
   "builders": {
     "pixel": "0.x",
