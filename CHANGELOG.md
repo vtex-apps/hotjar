@@ -7,6 +7,9 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+### Added
+- `type=text/partytown` attribute.
+
 ## [0.1.6] - 2020-11-10
 
 ### Fixed
